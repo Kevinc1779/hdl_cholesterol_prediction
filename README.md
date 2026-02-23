@@ -1,5 +1,7 @@
 # HDL Cholesterol Prediction
 
+HDL cholesterol prediction from the 2026 ASA Student Data Challenge
+
 ## Overview
 
 This project builds regression models to predict HDL cholesterol levels using clinical and demographic features.
